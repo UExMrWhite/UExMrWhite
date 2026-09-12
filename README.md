@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/github/stars/UExMrWhite?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=A855F7&labelColor=1F1235" alt="GitHub Stars">
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=UExMrWhite&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://img.shields.io/badge/Profile_Views-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1F1235" alt="Profile Views">
 
 <br><br>
 
@@ -136,12 +136,6 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
 
 </p>
 
-<br>
-
-<p align="center">
-
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -154,14 +148,12 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
 
 ## 💻 Featured Projects
 
-<div align="center">
-
 <table width="100%" align="center">
   <tr>
     <td align="left" valign="middle" width="60%">
       <h3 style="margin: 0; color: #A855F7;">🎬 Material Media Player</h3>
       <p style="color: #C084FC; font-size: 14px; margin: 6px 0 0 0;">
-        A local media player. Ready when you are ready!.
+        A local media player. Ready when you are ready!
       </p>
     </td>
     <td align="right" valign="middle" width="40%">
@@ -175,10 +167,6 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
     </td>
   </tr>
 </table>
-
-</div>
-
-</p>
 
 ---
 
