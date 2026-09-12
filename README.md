@@ -161,7 +161,7 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
     <td align="left" valign="middle" width="60%">
       <h3 style="margin: 0; color: #A855F7;">🎬 Material Media Player</h3>
       <p style="color: #C084FC; font-size: 14px; margin: 6px 0 0 0;">
-        A sleek, modern desktop media player built with a clean Material design aesthetic.
+        A local media player. Ready when you are ready!.
       </p>
     </td>
     <td align="right" valign="middle" width="40%">
