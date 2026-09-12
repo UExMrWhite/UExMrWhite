@@ -5,9 +5,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=YOUR_NAME&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=YOUR_TAGLINE&descAlignY=62&descSize=20&color=0:0D1117,50:6D28D9,100:A855F7">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=YOUR_NAME&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=YOUR_TAGLINE&descAlignY=62&descSize=20&color=0:111827,50:7C3AED,100:C084FC">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=YOUR_NAME&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=YOUR_TAGLINE&descAlignY=62&descSize=20&color=0:0D1117,50:6D28D9,100:A855F7" width="100%" alt="Profile Banner">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for UExMrWhite" src="art/header-light.png">
 </picture>
 
 <br>
