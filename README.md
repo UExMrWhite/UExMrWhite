@@ -149,9 +149,7 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/UExMrWhite/UExMrWhite/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-
+  <img src="https://raw.githubusercontent.com/UExMrWhite/UExMrWhite/output/github-contribution-grid-snake-dark.svg?v=2" alt="GitHub Contribution Snake">
 </p>
 
 ---
