@@ -154,17 +154,29 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
 
 ## 💻 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/UExMrWhite/Material-Media-Player">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UExMrWhite&repo=Material-Media-Player&theme=synthwave&bg_color=0D1117&title_color=A855F7&text_color=C084FC&icon_color=7C3AED&border_color=7C3AED" alt="Material Media Player" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
+<table width="100%" align="center">
+  <tr>
+    <td align="left" valign="middle" width="60%">
+      <h3 style="margin: 0; color: #A855F7;">🎬 Material Media Player</h3>
+      <p style="color: #C084FC; font-size: 14px; margin: 6px 0 0 0;">
+        A sleek, modern desktop media player built with a clean Material design aesthetic.
+      </p>
+    </td>
+    <td align="right" valign="middle" width="40%">
+      <a href="https://github.com/UExMrWhite/Material-Media-Player/releases/latest/download/Material_Media_Player_V1.0.msi">
+        <img src="https://img.shields.io/badge/⚡_DOWNLOAD_LATEST_.MSI-7C3AED?style=for-the-badge&logo=windows&logoColor=white" alt="Download MSI" />
+      </a>
+      <br />
+      <a href="https://github.com/UExMrWhite/Material-Media-Player">
+        <img src="https://img.shields.io/badge/📁_VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="View Repository" style="margin-top: 6px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/UExMrWhite?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories">
-</a>
+</div>
 
 </p>
 
