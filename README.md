@@ -5,9 +5,8 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <picture>
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for UExMrWhite" src="art/header-light.png">
+   <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+   <img alt="Logo for UExMrWhite" src="header-light.png">
 </picture>
 
 <br>
