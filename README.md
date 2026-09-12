@@ -155,11 +155,9 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
 ## 💻 Featured Projects
 
 <p align="center">
-
-<a href="https://github.com/UExMrWhite/Material-Game-Launcher">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=UExMrWhite&repo=Material-Game-Launcher&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="Material Game Launcher">
-</a>
-
+  <a href="https://github.com/UExMrWhite/Material-Media-Player">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UExMrWhite&repo=Material-Media-Player&theme=synthwave&bg_color=0D1117&title_color=A855F7&text_color=C084FC&icon_color=7C3AED&border_color=7C3AED" alt="Material Media Player" />
+  </a>
 </p>
 
 <p align="center">
