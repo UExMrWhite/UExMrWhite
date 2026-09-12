@@ -12,9 +12,9 @@
 
 <br>
 
-# Hey there, I'm [YOUR_NAME] 👋
+# Hey there, I'm UExMrWhite 👋
 
-<a href="https://github.com/[YOUR_USERNAME]">
+<a href="https://github.com/UExMrWhite">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=YOUR_ROLE+%7C+YOUR_SPECIALTY;Building+things+that+matter;Learning+%7C+Creating+%7C+Exploring;Welcome+to+my+GitHub+universe+%F0%9F%9A%80" alt="Typing SVG">
 </a>
 
@@ -24,15 +24,15 @@
 <!--                           BADGES                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/[YOUR_USERNAME]?tab=followers">
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=7C3AED&labelColor=1F1235" alt="GitHub Followers">
+<a href="https://github.com/UExMrWhite?tab=followers">
+  <img src="https://img.shields.io/github/followers/UExMrWhite?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=7C3AED&labelColor=1F1235" alt="GitHub Followers">
 </a>
 &nbsp;
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=A855F7&labelColor=1F1235" alt="GitHub Stars">
+<a href="https://github.com/UExMrWhite?tab=repositories">
+  <img src="https://img.shields.io/github/stars/UExMrWhite?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=A855F7&labelColor=1F1235" alt="GitHub Stars">
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=UExMrWhite&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views">
 
 <br><br>
 
@@ -48,16 +48,16 @@
 <tr>
 <td width="65%" valign="middle">
 
-### Hi, I'm [YOUR_NAME]! 👋
+### Hi, I'm UExMrWhite! 👋
 
-I'm a **[YOUR_ROLE]** passionate about **[YOUR_MAIN_INTEREST]**.
+I'm a **Developer** passionate about **Applications**.
 
-- 🔭 Currently working on **[YOUR_CURRENT_PROJECT]**
-- 🌱 Currently learning **[WHAT_YOU_ARE_LEARNING]**
-- 💡 Interested in **[YOUR_INTERESTS]**
-- 🛠️ Building with **[YOUR_MAIN_TECHNOLOGIES]**
+- 🔭 Currently working on **Material game Launcher**
+- 🌱 Currently learning **Everything**
+- 💡 Interested in **Technology**
+- 🛠️ Building with **Love :)**
 - 🎯 Goal: **[YOUR_GOAL]**
-- ⚡ Fun fact: **[YOUR_FUN_FACT]**
+- ⚡ Fun fact: **I'm a Gamer**
 
 <br>
 
@@ -65,7 +65,7 @@ I enjoy turning ideas into **real projects**, experimenting with new technologie
 
 <br>
 
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
+<a href="https://github.com/UExMrWhite?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_My_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects">
 </a>
 
@@ -73,7 +73,7 @@ I enjoy turning ideas into **real projects**, experimenting with new technologie
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/[YOUR_USERNAME]/[YOUR_IMAGE_REPOSITORY]/raw/main/[YOUR_IMAGE_FILE]" width="280" alt="[YOUR_NAME]">
+<img src="https://github.com/UExMrWhite/[YOUR_IMAGE_REPOSITORY]/raw/main/[YOUR_IMAGE_FILE]" width="280" alt="UExMrWhite">
 
 <br><br>
 
