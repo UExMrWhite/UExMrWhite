@@ -7,7 +7,7 @@
 
 <br>
 
-# Hey there, I'm UExMrWhite 👋
+# Hey there, I'm Erosh Perera 👋
 
 <a href="https://github.com/UExMrWhite">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Developer+%7C+Gamer;Building+Applications+%F0%9F%9A%80;Currently+working+on+Material+Game+Launcher;Learning+Everything+%F0%9F%94%A5;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG">
