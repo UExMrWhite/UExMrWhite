@@ -140,8 +140,6 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UExMrWhite&theme=react-dark&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph">
-
 </p>
 
 ---
