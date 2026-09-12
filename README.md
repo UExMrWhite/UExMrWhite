@@ -202,7 +202,7 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
 
 <p align="center">
 
-<i>"Building ideas with code, one project at a time."</i>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_color=06B6D4&author_color=A855F7&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote Card" />
 
 <br><br>
 
