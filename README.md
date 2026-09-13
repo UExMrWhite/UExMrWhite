@@ -9,9 +9,24 @@
 
 # Hey there, I'm Erosh Perera 👋
 
-<a href="https://github.com/UExMrWhite">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Developer+%7C+Gamer;Building+Applications+%F0%9F%9A%80;Currently+working+on+Material+Game+Launcher;Learning+Everything+%F0%9F%94%A5;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG">
-</a>
+<br>
+
+<!-- Bright Purple Top Wave -->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:A855F7,50:9333EA,100:C084FC&animation=twinkling" width="100%" alt="Header Top Wave">
+</picture>
+
+<!-- Middle Typing Container -->
+<div align="center" style="background-color: #9333EA; padding: 15px 0;">
+  <a href="https://github.com/UExMrWhite">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Developer+%7C+Gamer;Building+Applications+%F0%9F%9A%80;Currently+working+on+Material+Game+Launcher;Learning+Everything+%F0%9F%94%A5;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG">
+  </a>
+</div>
+
+<!-- Bright Purple Bottom Wave -->
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:C084FC,50:9333EA,100:A855F7&animation=twinkling" width="100%" alt="Header Bottom Wave">
+</picture>
 
 <br><br>
 
@@ -206,10 +221,9 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
 
 <br>
 
+<!-- Vibrant Footer Wave -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0D1117,50:6D28D9,100:A855F7&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:111827,50:7C3AED,100:C084FC&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0D1117,50:6D28D9,100:A855F7&animation=twinkling" width="100%" alt="Waving Footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:9333EA,50:A855F7,100:C084FC&animation=twinkling" width="100%" alt="Waving Footer">
 </picture>
 
 </div>
