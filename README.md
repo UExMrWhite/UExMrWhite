@@ -54,7 +54,7 @@
 
 I'm a **Developer** passionate about **Applications, Technology, and Gaming**.
 
-- 🔭 Currently working on **Material Game Launcher**
+- 🔭 Currently working on **Material Game Launcher 🎮**
 - 🌱 Currently learning **Everything**
 - 💡 Interested in **Technology**
 - 🛠️ Building with **Love :)**
