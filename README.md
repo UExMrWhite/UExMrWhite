@@ -1,12 +1,11 @@
 <div align="center">
 
-  <!-- Top Banner with Rounded Corners -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:A855F7,50:9333EA,100:C084FC&radius=20&text=UExMrWhite&fontSize=40&fontColor=FFFFFF">
-    <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:A855F7,50:9333EA,100:C084FC&radius=20&text=UExMrWhite&fontSize=40&fontColor=FFFFFF">
+    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.png">
+    <img alt="Logo for UExMrWhite" src="./header-light.png">
   </picture>
 
-<br><br>
+<br>
 
 # Hey there, I'm Erosh Perera 👋
 
@@ -76,10 +75,7 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
 
 <td width="35%" align="center" valign="middle">
 
-<!-- Rounded Corner Profile Avatar -->
-<a href="https://github.com/UExMrWhite">
-  <img src="https://github.com/UExMrWhite.png" width="240" height="240" alt="UExMrWhite Avatar" align="center" style="border-radius: 20px;">
-</a>
+<img src="https://github.com/UExMrWhite.png" width="260" alt="UExMrWhite Avatar" style="border-radius: 50%;">
 
 <br><br>
 
