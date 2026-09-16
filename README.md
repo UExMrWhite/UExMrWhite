@@ -115,6 +115,28 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
   </tr>
 </table>
 
+<br>
+
+<table width="100%" align="center">
+  <tr>
+    <td align="left" valign="middle" width="60%">
+      <h3 style="margin: 0; color: #A855F7;">📥 Material Downloader</h3>
+      <p style="color: #C084FC; font-size: 14px; margin: 6px 0 0 0;">
+        A modern, fast, and intuitive download manager built with Material Design.
+      </p>
+    </td>
+    <td align="right" valign="middle" width="40%">
+      <a href="https://github.com/UExMrWhite/Material-Downloader/releases/latest/download/Material_Downloader.msi">
+        <img src="https://img.shields.io/badge/⚡_DOWNLOAD_LATEST_.MSI-7C3AED?style=for-the-badge&logo=windows&logoColor=white" alt="Download MSI" />
+      </a>
+      <br />
+      <a href="https://github.com/UExMrWhite/Material-Downloader">
+        <img src="https://img.shields.io/badge/📁_VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="View Repository" style="margin-top: 6px;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🧰 Tech Stack
