@@ -121,7 +121,7 @@ I enjoy turning ideas into real projects, experimenting with new technologies, a
       </p>
     </td>
     <td align="right" valign="middle" width="35%">
-      <a href="https://github.com/UExMrWhite/Material-Downloader/releases/latest/download/Material_Downloader.msi">
+      <a href="https://github.com/UExMrWhite/Material-Downloader/releases/latest/download/Material_Downloader_V1.0.msi">
         <img src="https://img.shields.io/badge/⚡_DOWNLOAD_LATEST_.MSI-7C3AED?style=for-the-badge&logo=windows&logoColor=white" alt="Download MSI" />
       </a>
       <br />
